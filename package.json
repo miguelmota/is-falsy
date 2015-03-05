@@ -1,8 +1,8 @@
 {
-  "name": "is-truthy",
+  "name": "is-falsy",
   "version": "0.0.1",
   "description": "Predicate that returns true for \"falsy\" values.",
-  "main": "is-truthy.js",
+  "main": "is-falsy.js",
   "directories": {
     "test": "test"
   },
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/miguelmota/is-truthy"
+    "url": "https://github.com/miguelmota/is-falsy"
   },
   "keywords": [
     "predicate",
-    "existy"
+    "falsy"
   ],
   "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/miguelmota/is-truthy/issues"
+    "url": "https://github.com/miguelmota/is-falsy/issues"
   },
-  "homepage": "https://github.com/miguelmota/is-truthy",
+  "homepage": "https://github.com/miguelmota/is-falsy",
   "dependencies": {
     "tape": "^3.0.3"
   }
